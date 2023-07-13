@@ -1,0 +1,51 @@
+
+
+
+
+
+
+.a4{
+    display: flex;
+    
+    background-color: rgb(242, 242, 243);
+}
+.a1{
+    display: flex;
+    width: 120px;
+    height: 100px;
+}
+.a4 img{
+     width: 850px;
+     height: 506px;
+     transform: translateX(77.3vh);
+}
+
+
+
+
+
+
+
+
+
+.bottom{
+    
+    display:flexbox;
+    background-color: rgb(120, 119, 119);
+    padding:12px;
+}
+.b2{
+    display:flex;  
+    padding: 8px;
+}
+.b2 img{
+    
+    transform: translateX(80em);
+    padding: 5px;
+    width:40px;
+    
+}
+.b1{
+    text-align: right;
+    color: white;
+}
